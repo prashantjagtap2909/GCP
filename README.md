@@ -6,7 +6,7 @@
 
 
 ## Contents
-- Module 1 > [Need of cloud computing].(Modules.module1.md)
+- Module 1 > [Need of cloud computing](https://github.com/prashantjagtap2909/GCP/blob/main/Modules/module1.md)
 - Module 2 > [What is cloud computing].(Modules.module2.md)
 - Module 3 > [Cloud services and providers].(Modules.module3.md)
 - Module 4 > [Why GCP].(Modules.module4.md)
