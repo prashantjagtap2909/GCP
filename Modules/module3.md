@@ -1,5 +1,5 @@
 # Cloud services 
-- Let's understand the about the differnt cloud services
+- Let's understand the about the different cloud services
 
 ## 1. IaaS 
 - Infrastusture as a service
@@ -62,4 +62,4 @@
 - Users not responsible for hardware or software updates
 
 
-Here we have learned about the cloud services visit [next module](https://github.com/prashantjagtap2909/GCP/blob/main/Modules/module4.md)
+Here we have learned about the cloud services, visit [next module](https://github.com/prashantjagtap2909/GCP/blob/main/Modules/module4.md)
