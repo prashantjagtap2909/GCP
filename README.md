@@ -16,7 +16,7 @@
 - Module 8 > [Creating account](https://github.com/prashantjagtap2909/GCP/blob/main/Modules/module8.md)
 - Module 9 > [GCP home](https://github.com/prashantjagtap2909/GCP/blob/main/Modules/module9.md)
 - Module 10 > [GCP services in depth](https://github.com/prashantjagtap2909/GCP/blob/main/Modules/module10.md)
-- Module 11 > [lab section- coming soon](https://github.com/prashantjagtap2909/GCP/blob/main/Modules/module11.md)
+- Module 11 > [lab section](https://github.com/prashantjagtap2909/GCP/blob/main/Modules/module11.md)
 
 
 #### Resouces 
