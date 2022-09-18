@@ -15,3 +15,6 @@
 - GCP has a number of locations around the world. It also contributes to the application’s excellent availability.
 - Assists in achieving low latency and serving users from the closest available site.
 - Follow the rules set forth by the government. Data policies varies from country to country.
+
+
+[next module](https://github.com/prashantjagtap2909/GCP/blob/main/Modules/module8.md)
