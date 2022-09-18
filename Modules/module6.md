@@ -12,7 +12,7 @@
 
 
 
-## Compute: GCP provides a scalable range of computing options you can tailor to match your needs. It provides highly customizable virtual machines. and the option to deploy your code directly or via containers.
+## Different cloud servies
 
 ### Cloud Computing Training
 - Google Compute Engine
