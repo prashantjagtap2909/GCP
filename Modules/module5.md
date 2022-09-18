@@ -64,3 +64,4 @@
 
 - Google Cloud has recently acquired Cornerstone Technology to assist customers in migrating their mainframe workloads to Google Cloud Platform. Many small and large enterprises are increasingly adopting Google Cloud Platform, which bodes well since it disentangles things and makes them more secure at reasonable costs.
 
+[next module](https://github.com/prashantjagtap2909/GCP/blob/main/Modules/module6.md)
