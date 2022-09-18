@@ -83,3 +83,6 @@
 - Deployment Manager
 - Cloud Source Repositories
 - Cloud Test Lab
+
+
+[next module](https://github.com/prashantjagtap2909/GCP/blob/main/Modules/module7.md)
