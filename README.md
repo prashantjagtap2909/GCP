@@ -14,9 +14,15 @@
 - Module 6 > [GCP services](https://github.com/prashantjagtap2909/GCP/blob/main/Modules/module6.md)
 - Module 7 > [Regions and zones](https://github.com/prashantjagtap2909/GCP/blob/main/Modules/module7.md)
 - Module 8 > [Creating account](https://github.com/prashantjagtap2909/GCP/blob/main/Modules/module8.md)
-- Module 9 > [GCP home](https://github.com/prashantjagtap2909/GCP/blob/main/Modules/module9.md)
-- Module 10 > [GCP services in depth](https://github.com/prashantjagtap2909/GCP/blob/main/Modules/module10.md)
-- Module 11 > [lab section](https://github.com/prashantjagtap2909/GCP/blob/main/Modules/module11.md)
+- Module 9 > [GCP Services - Cloud Compute](https://github.com/prashantjagtap2909/GCP/blob/main/Modules/module9.md)
+- Module 10 > [GCP Services - Networking](https://github.com/prashantjagtap2909/GCP/blob/main/Modules/module10.md)
+- Module 12 > [GCP Services - Storage and Database](https://github.com/prashantjagtap2909/GCP/blob/main/Modules/module12.md)
+- Module 13 > [GCP Services - Big data](https://github.com/prashantjagtap2909/GCP/blob/main/Modules/module13.md)
+- Module 14 > [GCP services - Machine Learning](https://github.com/prashantjagtap2909/GCP/blob/main/Modules/module14.md)
+- Module 15 > [GCP Servuces - Identity and security](https://github.com/prashantjagtap2909/GCP/blob/main/Modules/module15.md)
+- Module 16 > [GCP Services - Management Tool](https://github.com/prashantjagtap2909/GCP/blob/main/Modules/module16.md)
+- Module 17 > [GCP services - Developer Tool](https://github.com/prashantjagtap2909/GCP/blob/main/Modules/module17.md)
+- Module 18 > [lab section](https://github.com/prashantjagtap2909/GCP/blob/main/Modules/module18.md)
 
 
 #### Resouces 
