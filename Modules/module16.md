@@ -25,4 +25,4 @@
 - The Google Cloud console helps you deploy, scale, and diagnose production issues in a simple web-based interface. Search to quickly find resources and connect to instances via SSH in the browser. Handle DevOps workflows on the go with powerful native iOS and Android applications.
 
 
-[next module](https://github.com/prashantjagtap2909/GCP/blob/main/Modules/module6.md)
+[next module](https://github.com/prashantjagtap2909/GCP/blob/main/Modules/module17.md)
