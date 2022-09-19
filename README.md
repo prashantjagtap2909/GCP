@@ -1,7 +1,7 @@
 # GCP
 
 - The google cloud platform one of most growing cloud service.
-- This repository is covers most of topic of the Google cloud platform.
+- This repository is covers introduction of most of topics of Google cloud platform.
 - will add labs after covering all the topics.
 
 
