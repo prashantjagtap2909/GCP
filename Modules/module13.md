@@ -25,4 +25,4 @@
 - Cloud Life Sciences (formerly Google Genomics) enables the life sciences community to process biomedical data at scale. Cost effective and supported by a growing partner ecosystem, Cloud Life Sciences lets you focus on analyzing data and reproducing results while Google Cloud takes care of the rest.
 
 
-[next module](https://github.com/prashantjagtap2909/GCP/blob/main/Modules/module14.md))
+[next module](https://github.com/prashantjagtap2909/GCP/blob/main/Modules/module14.md)
