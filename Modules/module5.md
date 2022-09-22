@@ -62,6 +62,6 @@
 
 - Google tries to keep the backend as simple as possible and uses a simple file system. This system is the foundation of the Google cloud services. It handles requests for information via basic commands like write, read, and open. It is a distributed system of computing.
 
-- Google Cloud has recently acquired Cornerstone Technology to assist customers in migrating their mainframe workloads to Google Cloud Platform. Many small and large enterprises are increasingly adopting Google Cloud Platform, which bodes well since it disentangles things and makes them more secure at reasonable costs.
+- Google Cloud has recently acquired Cornerstone Technology to assist customers in migrating their mainframe workloads to Google Cloud Platform. Many small and large enterprises are increasingly adopting the Google Cloud Platform, which bodes well since it disentangles things and makes them more secure at reasonable costs.
 
 [next module](https://github.com/prashantjagtap2909/GCP/blob/main/Modules/module6.md)
