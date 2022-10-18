@@ -19,7 +19,7 @@
 - Module 12 > [GCP Services - Storage and Database](https://github.com/prashantjagtap2909/GCP/blob/main/Modules/module12.md)
 - Module 13 > [GCP Services - Big data](https://github.com/prashantjagtap2909/GCP/blob/main/Modules/module13.md)
 - Module 14 > [GCP services - Machine Learning](https://github.com/prashantjagtap2909/GCP/blob/main/Modules/module14.md)
-- Module 15 > [GCP Servuces - Identity and security](https://github.com/prashantjagtap2909/GCP/blob/main/Modules/module15.md)
+- Module 15 > [GCP Services - Identity and security](https://github.com/prashantjagtap2909/GCP/blob/main/Modules/module15.md)
 - Module 16 > [GCP Services - Management Tool](https://github.com/prashantjagtap2909/GCP/blob/main/Modules/module16.md)
 - Module 17 > [GCP services - Developer Tool](https://github.com/prashantjagtap2909/GCP/blob/main/Modules/module17.md)
 - Module 18 > [lab section](https://github.com/prashantjagtap2909/GCP/blob/main/Modules/module18.md)
