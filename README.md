@@ -25,5 +25,5 @@
 - Module 18 > [lab section - upload soon](https://github.com/prashantjagtap2909/GCP/blob/main/Modules/module18.md)
 
 
-### Resources 
+## Resources 
 Official site of GCP.
