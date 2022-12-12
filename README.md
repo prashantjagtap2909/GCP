@@ -5,7 +5,7 @@
 - will add labs after covering all the topics.
 
 
-## Contents
+### Contents
 - Module 1 > [Need of cloud computing](https://github.com/prashantjagtap2909/GCP/blob/main/Modules/module1.md)
 - Module 2 > [What is cloud computing](https://github.com/prashantjagtap2909/GCP/blob/main/Modules/module2.md)
 - Module 3 > [Cloud services and providers](https://github.com/prashantjagtap2909/GCP/blob/main/Modules/module3.md)
